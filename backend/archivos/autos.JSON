@@ -1,0 +1,26 @@
+[
+    {
+        "marca": "ferrari",
+        "patente": "aaa000",
+        "color": "#ff0000",
+        "precio": 100000
+    },
+    {
+        "marca": "lambo",
+        "patente": "joacomovil",
+        "color": "#00ff11",
+        "precio": 999999
+    },
+    {
+        "marca": "lambo",
+        "patente": "joacomovil",
+        "color": "#00ff11",
+        "precio": 999999
+    },
+    {
+        "marca": "fiat",
+        "patente": "000999",
+        "color": "#001eff",
+        "precio": 999
+    }
+]
